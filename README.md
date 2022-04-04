@@ -2,6 +2,9 @@
  
 Maded Games By Me Thats My Portfolio
 
+web site
+https://batu-myportfolio.netlify.app/
+
 Batuhan Tuna Portfolio
 If Thats Not Enough Please Contact Me
 batuna007@outlook.com
