@@ -45,4 +45,4 @@ https://youtu.be/z6H0iy8uV18
 
 -----Code Examples Pulic Repostories----
 
-https://github.com/revios07/HyperCasual-Runner-Templeates
+https://github.com/revios07/Unity-Runner-Code-Examples
