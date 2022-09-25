@@ -26,7 +26,7 @@ https://youtu.be/tjKFJKmgujE
 
 -Cube Dance
 
-https://github.com/revios07/Unity-Cube-Dance
+https://github.com/revios07/Unity-Cube-Dance-3D
 
 ----Atom GameJam----
 
