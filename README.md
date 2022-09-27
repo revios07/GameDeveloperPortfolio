@@ -2,7 +2,7 @@
  
 Maded Games By Me Thats My Portfolio
 
-web site
+Portfolio WebSite
 
 https://batu-myportfolio.netlify.app/
 
